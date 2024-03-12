@@ -61,6 +61,6 @@ This program is provided as-is without any warranties. Use it at your own risk.
 
 ---
 
-**Author**: [Ioana Gugulea]
+**Author**: Ioana Gugulea
 
-**Date**: [14th January 2024]
+**Date**: 14th January 2024
